@@ -1,11 +1,8 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+<img width="2752" height="1536" alt="Building_An_AI_Second_Brain" src="https://github.com/user-attachments/assets/d4eafceb-9a0b-4855-80cb-e0f3dbd5792e" />
 
 # Build an AI Second Brain with Claude Code
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/ai-second-brain-claude-code)
-
-**Author:** tahirgroot@gmail.com  
-**Email:** tahirgroot@gmail.com
 
 ---
 
